@@ -64,7 +64,7 @@ ul {
     padding: 0;
     width:240px;
     height: 100vh;
-    background-color: white;
+    background-color: transparent;
     overflow: auto;
     position:fixed;
 }
@@ -87,7 +87,7 @@ li a:hover:not(.active) {
 }
 /*YXNGMEEZY NAV*/
 .FONT {
-    font-family: 'Björk Handwriting';
+    font-family: 'Björk Handwriting', 'Oswald';
     font-size:19px;
     color:red;
 }
@@ -106,7 +106,7 @@ li a:hover:not(.active) {
 .miguelito {
     font-size:38px;
     color:red;
-    font-family: 'Björk Handwriting';
+    font-family: 'Björk Handwriting', 'Oswald';
 }
 #SECTION1{
     width:100%;
